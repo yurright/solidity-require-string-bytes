@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_s",
+						"type": "string"
+					}
+				],
+				"name": "toBytes",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"question09.sol": "Q9"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"question09.sol": {
+			"keccak256": "0x11df18ea6f7bc16b3c06e33bffca536b8ce1e626db28ecb5b99e168a938db62b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cc2e5ef2015beb46bad43ac980cd1e3a9b49c26c7e6af266280d2b33b5c80e78",
+				"dweb:/ipfs/QmYXDSctoL9dhi7Z5AWvLUqmZk4ZS3z7hq25SdE88qpYtC"
+			]
+		}
+	},
+	"version": 1
+}

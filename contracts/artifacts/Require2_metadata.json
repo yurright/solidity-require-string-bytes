@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.23+commit.f704f362"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "require2_1",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "require2_2",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"require2.sol": "Require2"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"require2.sol": {
+			"keccak256": "0x69f60c90a2619b96d5ed92cd32a4f790c628a297fae46dbafa41c78cc7a09bbf",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://71d7c90a818ab5893b84acf959e9dc6ad3120f00a40c8823e6ac890250b59330",
+				"dweb:/ipfs/QmTmqhqD3QDHVxGbAWayBZVzBvjEHQtcCPfqffqMgoc5Ft"
+			]
+		}
+	},
+	"version": 1
+}
